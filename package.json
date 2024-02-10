@@ -1,0 +1,12 @@
+{
+  "name": "@fortesecurities/fortecoin-deposit-wallet-contracts",
+  "version": "1.0.0",
+  "description": "fortecoin-deposit-wallet-contracts",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Quentin ADAM",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.1"
+  }
+}
